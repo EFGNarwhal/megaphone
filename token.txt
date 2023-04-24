@@ -1,0 +1,1 @@
+replace this with your discord token here. it should be the only text in the file
