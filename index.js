@@ -59,10 +59,6 @@ client.on('messageCreate', async (message) => {
     return message.reply(`Could not find channel the channel! Did you format your message properly?`);
   }
 
-  if (sentMessages.has(messageContent)) {
-    return message.reply(`Message "${messageContent}" already sent.`);
-  }
-
   console.log(`Sending message to channel ${channel.name} in guild ${channel.guild.name}`);
   await channel.send(messageContent);
 
