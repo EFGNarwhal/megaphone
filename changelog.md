@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This project was made by Narwhal#9999 on Discord. Feel free to add me if you have any questions.
 
+## [1.0.2] - 2023-04-25
+
+### Removed
+
+- left in a test feature that doesn't allow duplicate messages. it has been removed
+
 ## [1.0.1] - 2023-04-24 - public release
 
 ### Added
